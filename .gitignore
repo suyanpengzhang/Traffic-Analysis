@@ -167,3 +167,35 @@ volume_2022_12.pkl
 2021_data/2021_12_02.csv
 2021_data/2021_12_03.csv
 2021_data/2021_12_04.csv
+monthly_data/sensor_monthly_2020_01.pkl
+monthly_data/sensor_monthly_2020_03.pkl
+monthly_data/sensor_monthly_2020_08.pkl
+monthly_data/sensor_monthly_2020_07.pkl
+monthly_data/sensor_monthly_2020_09.pkl
+monthly_data/sensor_monthly_2021_03.pkl
+monthly_data/sensor_monthly_2021_04.pkl
+monthly_data/sensor_monthly_2021_05.pkl
+monthly_data/sensor_monthly_2021_01.pkl
+monthly_data/sensor_monthly_2021_06.pkl
+monthly_data/sensor_monthly_2021_07.pkl
+monthly_data/sensor_monthly_2021_08.pkl
+monthly_data/sensor_monthly_2021_09.pkl
+monthly_data/sensor_monthly_2021_10.pkl
+monthly_data/sensor_monthly_2021_12.pkl
+monthly_data/sensor_monthly_2021_11.pkl
+monthly_data/sensor_monthly_2022_01.pkl
+monthly_data/sensor_monthly_2022_03.pkl
+monthly_data/sensor_monthly_2022_08.pkl
+monthly_data/sensor_monthly_2022_09.pkl
+monthly_data/sensor_monthly_2022_07.pkl
+preprocessing data/volume_2021_03.pkl
+preprocessing data/volume_2021_01.pkl
+preprocessing data/volume_2021_05.pkl
+preprocessing data/volume_2021_06.pkl
+preprocessing data/volume_2021_04.pkl
+preprocessing data/volume_2021_07.pkl
+preprocessing data/volume_2021_09.pkl
+preprocessing data/volume_2021_10.pkl
+preprocessing data/volume_2021_08.pkl
+preprocessing data/volume_2021_12.pkl
+preprocessing data/volume_2021_11.pkl

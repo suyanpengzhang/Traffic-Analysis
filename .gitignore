@@ -199,3 +199,129 @@ preprocessing data/volume_2021_10.pkl
 preprocessing data/volume_2021_08.pkl
 preprocessing data/volume_2021_12.pkl
 preprocessing data/volume_2021_11.pkl
+2020_data/2020_01_01.csv
+2020_data/2020_02_01.csv
+2020_data/2020_04_01.csv
+2020_data/2020_03_01.csv
+2022_data/2022_01_01.csv
+2022_data/2022_01_04.csv
+2022_data/2022_01_03.csv
+2022_data/2022_02_01.csv
+2022_data/2022_01_02.csv
+2022_data/2022_02_02.csv
+2022_data/2022_02_04.csv
+2022_data/2022_02_03.csv
+2022_data/2022_03_03.csv
+2022_data/2022_03_02.csv
+2022_data/2022_03_01.csv
+2022_data/2022_04_01.csv
+2022_data/2022_04_03.csv
+2022_data/2022_04_04.csv
+2022_data/2022_04_02.csv
+2022_data/2022_05_01.csv
+2022_data/2022_05_02.csv
+2022_data/2022_05_03.csv
+2022_data/2022_05_04.csv
+2022_data/2022_03_04.csv
+2022_data/2022_06_03.csv
+2022_data/2022_07_01.csv
+2022_data/2022_06_04.csv
+2022_data/2022_07_02.csv
+2022_data/2022_07_04.csv
+2022_data/2022_06_02.csv
+2022_data/2022_08_02.csv
+2022_data/2022_08_01.csv
+2022_data/2022_07_03.csv
+2022_data/2022_06_01.csv
+2022_data/2022_09_01.csv
+2022_data/2022_08_04.csv
+2022_data/2022_09_02.csv
+2022_data/2022_09_03.csv
+2022_data/2022_10_01.csv
+2022_data/2022_10_02.csv
+2022_data/2022_10_04.csv
+2022_data/2022_11_01.csv
+2022_data/2022_10_03.csv
+2022_data/2022_09_04.csv
+2022_data/2022_08_03.csv
+2022_data/2022_11_04.csv
+2022_data/2022_11_03.csv
+2022_data/2022_12_01.csv
+2022_data/2022_11_02.csv
+2022_data/2022_12_02.csv
+2022_data/2022_12_03.csv
+2022_data/2022_12_04.csv
+monthly_data/unfiltered_sensor_monthly_2020_01.pkl
+monthly_data/unfiltered_sensor_monthly_2020_02.pkl
+monthly_data/unfiltered_sensor_monthly_2020_04.pkl
+monthly_data/unfiltered_sensor_monthly_2020_03.pkl
+monthly_data/unfiltered_sensor_monthly_2020_03.pkl
+monthly_data/unfiltered_sensor_monthly_2020_06.pkl
+monthly_data/unfiltered_sensor_monthly_2020_05.pkl
+monthly_data/unfiltered_sensor_monthly_2020_08.pkl
+monthly_data/unfiltered_sensor_monthly_2020_09.pkl
+monthly_data/unfiltered_sensor_monthly_2020_11.pkl
+monthly_data/unfiltered_sensor_monthly_2020_10.pkl
+monthly_data/unfiltered_sensor_monthly_2020_10.pkl
+monthly_data/unfiltered_sensor_monthly_2020_07.pkl
+monthly_data/unfiltered_sensor_monthly_2021_03.pkl
+monthly_data/unfiltered_sensor_monthly_2021_01.pkl
+monthly_data/unfiltered_sensor_monthly_2021_04.pkl
+monthly_data/unfiltered_sensor_monthly_2021_05.pkl
+monthly_data/unfiltered_sensor_monthly_2020_12.pkl
+monthly_data/unfiltered_sensor_monthly_2021_08.pkl
+monthly_data/unfiltered_sensor_monthly_2021_07.pkl
+monthly_data/unfiltered_sensor_monthly_2021_09.pkl
+monthly_data/unfiltered_sensor_monthly_2021_10.pkl
+monthly_data/unfiltered_sensor_monthly_2021_12.pkl
+monthly_data/unfiltered_sensor_monthly_2021_11.pkl
+monthly_data/unfiltered_sensor_monthly_2021_06.pkl
+monthly_data/unfiltered_sensor_monthly_2022_03.pkl
+monthly_data/unfiltered_sensor_monthly_2022_01.pkl
+monthly_data/unfiltered_sensor_monthly_2022_04.pkl
+monthly_data/unfiltered_sensor_monthly_2022_05.pkl
+monthly_data/unfiltered_sensor_monthly_2022_06.pkl
+monthly_data/unfiltered_sensor_monthly_2022_08.pkl
+monthly_data/unfiltered_sensor_monthly_2022_07.pkl
+monthly_data/unfiltered_sensor_monthly_2022_09.pkl
+monthly_data/unfiltered_sensor_monthly_2022_02.pkl
+monthly_data/unfiltered_sensor_monthly_2022_11.pkl
+monthly_data/unfiltered_sensor_monthly_2022_10.pkl
+preprocessing data/unfiltered_volume_2020_01.pkl
+preprocessing data/unfiltered_volume_2020_02.pkl
+monthly_data/unfiltered_sensor_monthly_2022_12.pkl
+preprocessing data/unfiltered_volume_2020_03.pkl
+preprocessing data/unfiltered_volume_2020_05.pkl
+preprocessing data/unfiltered_volume_2020_04.pkl
+preprocessing data/unfiltered_volume_2020_06.pkl
+preprocessing data/unfiltered_volume_2020_07.pkl
+preprocessing data/unfiltered_volume_2020_09.pkl
+preprocessing data/unfiltered_volume_2020_10.pkl
+preprocessing data/unfiltered_volume_2020_08.pkl
+preprocessing data/unfiltered_volume_2020_12.pkl
+preprocessing data/unfiltered_volume_2020_12.pkl
+preprocessing data/unfiltered_volume_2021_01.pkl
+preprocessing data/unfiltered_volume_2021_01.pkl
+preprocessing data/unfiltered_volume_2021_03.pkl
+preprocessing data/unfiltered_volume_2020_11.pkl
+preprocessing data/unfiltered_volume_2021_05.pkl
+preprocessing data/unfiltered_volume_2021_04.pkl
+preprocessing data/unfiltered_volume_2021_06.pkl
+preprocessing data/unfiltered_volume_2021_08.pkl
+preprocessing data/unfiltered_volume_2021_09.pkl
+preprocessing data/unfiltered_volume_2021_07.pkl
+preprocessing data/unfiltered_volume_2021_10.pkl
+preprocessing data/unfiltered_volume_2021_11.pkl
+preprocessing data/unfiltered_volume_2021_12.pkl
+preprocessing data/unfiltered_volume_2022_02.pkl
+preprocessing data/unfiltered_volume_2022_01.pkl
+preprocessing data/unfiltered_volume_2022_04.pkl
+preprocessing data/unfiltered_volume_2022_03.pkl
+preprocessing data/unfiltered_volume_2022_06.pkl
+preprocessing data/unfiltered_volume_2022_05.pkl
+preprocessing data/unfiltered_volume_2022_08.pkl
+preprocessing data/unfiltered_volume_2022_09.pkl
+preprocessing data/unfiltered_volume_2022_07.pkl
+preprocessing data/unfiltered_volume_2022_10.pkl
+preprocessing data/unfiltered_volume_2022_11.pkl
+preprocessing data/unfiltered_volume_2022_12.pkl
